@@ -8,6 +8,7 @@
 
 __________________________________________________________________________________________________________________________
 
+
 Notebooks `.ipynb` and` .py` scripts:
 
 01. [Repository - Data Analysis projects](https://github.com/getgreater/Yandex-Practicum)  
@@ -28,13 +29,18 @@ Notebooks `.ipynb` and` .py` scripts:
 | [02. Borrower Reliability Study](https://nbviewer.org/github/getgreater/Yandex-Practicum/blob/main/2_reliability_of_the_borrower/Reliability_of_the_Borrower_Project_EN.ipynb) | Data preprocessing and cleaning. Find out whether the marital status and the number of children of the client impact the fact of repaying the loan on time. | Completed | 
 
 
-<a href="#link7"><img src='https://img.shields.io/badge/Back to top-&#x21A9-blue'></a>
+<a href="#link6"><img src='https://img.shields.io/badge/Back to top-&#x21A9-blue'></a>
 
+
+<br>
+<br>
+<br>
+
+<a id='RUS'></a>
 
 Ноутбуки `.ipynb` и `.py` скрипты:
 
 01. [Репозиторий - Проекты Data Analysis](https://github.com/getgreater/Yandex-Practicum)  
-
 
 
 __________________________________________________________________________________________________________________________
@@ -51,6 +57,6 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________
 
 <a id='RUS'></a>
-<a id='link7'></a>
+<a id='link6'></a>
 
-<a href="#RUS"><img src='https://img.shields.io/badge/ENG-RUS-green'></a>
+<a href="#ENG"><img src='https://img.shields.io/badge/ENG-RUS-green'></a>
