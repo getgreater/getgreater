@@ -1,6 +1,6 @@
 <a id='link6'></a>
 <a id='ENG'></a>
-<a href="#ENG"><img src='https://img.shields.io/badge/ENG-RUS-green'></a>
+<a href="#RUS"><img src='https://img.shields.io/badge/ENG-RUS-green'></a>
 
 
 
@@ -53,4 +53,4 @@ ________________________________________________________________________________
 <a id='RUS'></a>
 <a id='link7'></a>
 
-<a href="#ENG"><img src='https://img.shields.io/badge/ENG-RUS-green'></a>
+<a href="#RUS"><img src='https://img.shields.io/badge/ENG-RUS-green'></a>
