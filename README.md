@@ -23,7 +23,7 @@ Notebooks `.ipynb` and` .py` scripts:
 
 
 
-| **Project** | **Type of research** | **Status** |
+| **Project** | **Type of research** | **Annotation** | **Status** |
 | -------------------- | :--------------------- |:---------------------------:|
 | [01. Music Service Research](https://nbviewer.org/github/getgreater/Yandex-Practicum/blob/main/1_big_city_music/Yandex_Music_Project_EN.ipynb) | Exploratory data analysis. Using real data from Yandex Music service, we will test hypotheses and compare the behavior of users in two big cities. | Completed |
 | [02. Borrower Reliability Study](https://nbviewer.org/github/getgreater/Yandex-Practicum/blob/main/2_reliability_of_the_borrower/Reliability_of_the_Borrower_Project_EN.ipynb) | Data preprocessing and cleaning. Find out whether the marital status and the number of children of the client impact the fact of repaying the loan on time. | Completed | 
@@ -48,10 +48,10 @@ ________________________________________________________________________________
 <p align="center"> Проекты Data Analysis </p align="center">
 
 
-| **Проект** | **Тип исследования** | **Статус** |
+| **Проект** | **Тип исследования** | **Примечание** | **Статус** |
 | -------------------- | :--------------------- |:---------------------------:|
-| [01. Исследование поведения пользователей музыкального сервиса](https://nbviewer.org/github/getgreater/Yandex-Practicum/blob/main/1_big_city_music/Yandex_Music_Project_RU.ipynb) | Исследовательский анализ данных. На реальных данных Яндекс Музыки мы проверим гипотезы и сравним поведение пользователей сервиса двух столиц. | Завершен|
-| [02. Исследование надёжности заёмщиков](https://nbviewer.org/github/getgreater/Yandex-Practicum/blob/main/2_reliability_of_the_borrower/Reliability_of_the_Borrower_Project_RU.ipynb) | Предобработка и очистка данных. Кредитный отдел банка запросил исследовать, какие факторы влияют на надёжность заёмщика. Необходимо предоставить портрет надёжного заемщика.| Завершен|
+| [01. Исследование поведения пользователей музыкального сервиса](https://nbviewer.org/github/getgreater/Yandex-Practicum/blob/main/1_big_city_music/Yandex_Music_Project_RU.ipynb) | Исследовательский анализ данных. На реальных данных Яндекс Музыки мы проверим гипотезы и сравним поведение пользователей сервиса двух столиц. | введение в EDA | Завершен|
+| [02. Исследование надёжности заёмщиков](https://nbviewer.org/github/getgreater/Yandex-Practicum/blob/main/2_reliability_of_the_borrower/Reliability_of_the_Borrower_Project_RU.ipynb) | Предобработка и очистка данных. Кредитный отдел банка запросил исследовать, какие факторы влияют на надёжность заёмщика. Необходимо предоставить портрет надёжного заемщика.| Pandas. Предобработка данных, лемматизация, категоризация данных.| Завершен|
 | [02. Исследование объявлений о продаже квартир](https://github.com/ArtyKrafty/Kraftyy/tree/main/real_state_eda) | Исследовательский анализ данных Необходимо определить параметры, оказывающие наибольшее влияние на оценку стоимости недвижимости. | Pandas, Matplotlib, Seaborn, NumPy, Datetime. Исследовательский анализ данных, предобработка данных, визуализация.| Завершен|
 
 <a href="#link6"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
