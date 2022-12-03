@@ -22,11 +22,10 @@ Notebooks `.ipynb` and` .py` scripts:
 <p align="center"> Data Analysis projects</p align="center">
 
 
-
 | **Project** | **Type of research** | **Annotation** |
 | [01. Music Service Research](https://nbviewer.org/github/getgreater/Yandex-Practicum/blob/main/1_big_city_music/Yandex_Music_Project_EN.ipynb) | Exploratory data analysis. Using real data from Yandex Music service, we will test hypotheses and compare the behavior of users in two big cities. |
-| [02. Borrower Reliability Study](https://nbviewer.org/github/getgreater/Yandex-Practicum/blob/main/2_reliability_of_the_borrower/Reliability_of_the_Borrower_Project_EN.ipynb) | Data preprocessing and cleaning. Find out whether the marital status and the number of children of the client impact the fact of repaying the loan on time. | 
-| [03. Borrower Reliability Study](https://nbviewer.org/github/getgreater/Yandex-Practicum/blob/main/2_reliability_of_the_borrower/Reliability_of_the_Borrower_Project_EN.ipynb) | Data preprocessing and cleaning. Find out whether the marital status and the number of children of the client impact the fact of repaying the loan on time. | 
+| [02. Borrower Reliability Study](https://nbviewer.org/github/getgreater/Yandex-Practicum/blob/main/2_reliability_of_the_borrower/Reliability_of_the_Borrower_Project_EN.ipynb) | Data preprocessing and cleaning. Find out whether the marital status and the number of children of the client impact the fact of repaying the loan on time. |
+| [03. Borrower Reliability Study](https://nbviewer.org/github/getgreater/Yandex-Practicum/blob/main/2_reliability_of_the_borrower/Reliability_of_the_Borrower_Project_EN.ipynb) | Data preprocessing and cleaning. Find out whether the marital status and the number of children of the client impact the fact of repaying the loan on time. |
 
 
 <a href="#link6"><img src='https://img.shields.io/badge/Back to top-&#x21A9-blue'></a>
