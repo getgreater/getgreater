@@ -22,7 +22,7 @@ Notebooks `.ipynb` and `.py` scripts:
 | [01. Music Service Research](https://github.com/getgreater/Yandex-Practicum/blob/main/1_big_city_music/Music_Project_EN.ipynb) | Exploratory data analysis. Using real data from Yandex Music service, we will test hypotheses and compare the behavior of users in two big cities. | Introduction to EDA | 
 | [02. Borrower Reliability Study](https://github.com/getgreater/Yandex-Practicum/blob/main/2_reliability_of_the_borrower/Reliability_of_the_Borrower_Project_EN.ipynb) | Data preprocessing and cleaning. Find out whether the marital status and the number of children of the client impact the fact of repaying the loan on time. | Data preprocessing, lemmatization, data categorization. |
 | [03. Research of apartments for sale](https://github.com/getgreater/Yandex-Practicum/blob/main/3_apartments_sale_research/Apartments_Sale_Research_EN.ipynb) | Exploratory data analysis It is necessary to identify the parameters that have the greatest impact on the valuation of real estate. | Pandas, Matplotlib, Seaborn, NumPy, Datetime. Exploratory data analysis, data preprocessing, visualization. |
-
+| [04. Research of movies which received government support](https://github.com/getgreater/Yandex-Practicum/blob/main/4_govt_supported_movies_analysis/4_govt_supported_movies_analysis_EN.ipynb) | We need to study the local film distribution market and identify current trends. We will focus on films that have received government support. We will try to answer the question of how interesting such films are to the viewer. | Pandas, Matplotlib, Seaborn, NumPy, Datetime. Exploratory data analysis, data preprocessing, visualization. |
 
 <a href="#link6"><img src='https://img.shields.io/badge/Back to top-&#x21A9-blue'></a>
 
